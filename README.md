@@ -25,6 +25,11 @@ cd python_task
 python3 cogol_app.py
 ```
 
+Video Samples:  
+[Pulsar](https://drive.google.com/file/d/1ICItxhXeRegn9U069zSGjV4wmvlUumSt/view?usp=sharing)  
+
+[Random Initialization](https://drive.google.com/file/d/1m0vwzXXx9SygDYWt2D7bIC8Cn495UI0_/view?usp=sharing)
+
 All configurations are in config.json in config folder  
 To Test run the following from root folder:
 ```bash
