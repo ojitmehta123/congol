@@ -21,7 +21,7 @@ git clone https://github.com/ojitmehta123/python_task.git
 
 To use Sample Application:
 ```bash
-cd python_task
+cd congol
 python3 cogol_app.py
 ```
 
