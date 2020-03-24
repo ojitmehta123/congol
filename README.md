@@ -16,7 +16,7 @@ pip3 install -r requirements.txt
 
 To clone the package:
 ```bash
-git clone https://github.com/ojitmehta123/python_task.git
+git clone https://github.com/ojitmehta123/congol.git
 ```
 
 To use Sample Application:
