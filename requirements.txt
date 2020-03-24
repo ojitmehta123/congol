@@ -1,4 +1,4 @@
-json
+jsonlib
 numpy
 nose
 time
